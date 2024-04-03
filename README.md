@@ -114,17 +114,19 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Kayoko                           | Clipboard manager for iOS.                                                        | No (Confirm to work on iOS 15.x)             | [vyolit](https://github.com/vyolit/Kayoko)           | -            |
 | Laetus                           | Limitless Keyboard Customisation                                                  | yes                 | SparkDev          | -            |
 | Latchkey                         | Customize the Face-ID Lock Glyph                                                  | yes                 | Nezuko's Repo     | -            |
+| LastLook                         | The Ultimate AOD Tweak for a Stock-Like Experience with Unlimited Potential.      | yes                 | Chariz            | -            |
 | Liddell                          | Little and colorful notification banners                                          | yes                 | Nezuko's Repo     | -            |
 | Listening                        | Toggle noise cancellation when media is playing/paused                            | yes                 | Havoc             | -            |
 | LocationService (CCSupport)      | You can turn on / off LocationService from the control center.                    | yes                 | ichitaso repo     | -            |
 | Lynx 2                           | Ultimate Device Customization                                                     | yes                 | Havoc             | -            |
+| Lynx 2 Application               | App icon for Lynx2 for you HomeScreen                                             | yes                 | MTAC's Repo        | -            |
 | MobileGoose                      | Desktop Goose but for iOS                                                         | yes                 | b4db1r3's r3p0    | -            |
 | MoreLinesNotifications           | The Tweak Increases the Lines for the Notifications                               | yes                 | BigBoss           | -            |
 | Mineland                         | Lower Dynamic Island for who using Dynamic Island on notched devices. Require enable by DynamicCowTS or something like that first to get the Dynamic Island.   | yes                 | [34306's Github](https://github.com/34306/mineland)  | -            |
 | MusicAlert                       | Apple Music queue/loved alerts like on iOS 16.4!                                  | yes                 | Havoc             | -            |
 | MusicArtworkSave                 | Save Album Artwork in Music.app!                                                  | yes                 | ETHN's repo       | -            |
-| MusicQueueBeGone                 | Remove the Apple Music Queue HUD                                                  | Partly Working      | Havoc             | Can't Access to tweak settings in Settings app, cause Settings app crash, but still work as default config |
-| NewTerm3 Beta                    | Terminal controls for iOS                                                         | yes                 | Roothide's repo   | -            |
+| MusicQueueBeGone                 | Remove the Apple Music Queue HUD                                                  | Yes                 | Havoc             | -            |
+| NewTerm3 Beta                    | Terminal controls for iOS                                                         | yes                 | Chariz            | -            |
 | NiceBarX                         | -                                                                                 | yes                 | NiceiOS           | -            |
 | NiceCaller                       | -                                                                                 | yes                 | NiceiOS           | -            |
 | NiceLogX                         | -                                                                                 | yes                 | NiceiOS           | -            |
