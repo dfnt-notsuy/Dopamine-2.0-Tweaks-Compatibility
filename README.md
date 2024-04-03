@@ -1,5 +1,5 @@
-  # Serotonin Tweaks Compatibility
-A Repo to upload compatibility tweaks for Serotonin `Roothide Bootstrap Springboard inject` - iOS 16.x 
+  # Dopamine 2.0 Tweaks Compatibility
+A Repo to upload compatibility tweaks for Dopamine 2.0 - iOS 16.x 
 
 YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK OR DON'T WORK
 
@@ -27,7 +27,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Dakota's Repo                | https://dakota1337x.github.io/               | Brend0n's repo               | https://brendonjkding.github.io/    | 
 
 
-## Working tweaks list
+## Tweaks list
 | Name                             | Description	                                                                     | Working?            | Source            | Note         |
 | -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
 | 3DAppVersionSpoofer              | A tweak to add app spoofing capabilities right from your 3D menu and prefs        | yes                 | Roothide's repo   | -            |
@@ -58,14 +58,14 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | betterAlarm                      | Better Interface for Alarm                                                        | yes                 | Chariz            | -            |
 | BetterCC                         | Customize your Control Center!                                                    | yes                 | Havoc             | Add weather and you will respring to SafeMode   |
 | BetterCCXI                       | Customize your Control Center!                                                    | yes                 | Packix            | Add weather and you will respring to SafeMode   |
-| BigSurCenter                     | Replaces the control center with a lightweight and modernised one                 | yes                 | Havoc             | Need advanced convert to RootHide     |
+| BigSurCenter                     | Replaces the control center with a lightweight and modernised one                 | yes                 | Havoc             | -            |
 | BioProtect XS                    | Face ID, Touch ID or passcode                                                     | yes                 | Limneos           | -            |
 | BlurryAlerts                     | tvOS Style Alerts                                                                 | yes                 | SlyFabi´s Repo    | -            |
 | BoldersReborn                    | Bring New UI to Folder view                                                       | yes                 | Chariz            | -            |
 | ByeHomeBottomBarX                | Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!                        | yes                 | BigBoss           | -            |
 | Cardculator                      | Calculator, but smaller                                                           | yes                 | Havoc             | -            |
 | CAHighFPS                        | Make your CoreAnimation applications use the highest available FPS.               | yes                 | PoomSmart's Repo  | -            |
-| Cask3                            | Animated table scrolling                                                          | Partly work         | Chariz            | [Discord for Patch](https://discord.gg/cherimoya)   |
+| Cask3                            | Animated table scrolling                                                          | Yes                 | Chariz            | -            |
 | CC On & Off                      | Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).                  | yes                 | Roothide's repo   | -            |
 | CCPowerMenu                      | Control device power options from Control Center.                                 | yes                 | MTAC's repo       | -            |
 | CCSupport                        | Add support for CC tweaks                                                         | yes                 | Roothide's repo   | -            |
@@ -102,7 +102,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Gravitation                      | Set your icons free!                                                              | yes                 | -                 | -            |
 | HATE                             | True OLED dark keyboard.                                                          | yes                 | [vyolit](https://github.com/vyolit/HATE)           | -            |
 | HotspotQR                        | Generate a QR Code for your personal hotspot directly in the settings.            | yes                 | BigBoss           | -            |
-| iCleaner Pro                     | The first real iOS system cleaner!                                                | yes (Shell only)    | Ivano Bilenchi    | Use Newterm3 Beta to clean            |
+| iCleaner Pro                     | The first real iOS system cleaner!                                                | yes                 | Ivano Bilenchi    | -            |
 | IconOrder                        | Preserve custom icon layouts by Springboard Crash or reboots etc                  | yes                 | Havoc             | -            |
 | IconRotation                     | Rotate your icons with device orientation!                                        | yes                 | ETHN's repo       | -            |
 | InstaLauncher 2                  | A system wide application launcher.                                               | yes                 | Havoc             | -            |
@@ -110,8 +110,8 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Jade                             | Your control center, brought anew.                                                | yes                 | Chariz            | -            |
 | KBPro                            | Quickly select, copy and paste text                                               | yes                 | Ginsu Tweaks      | -            |
 | Killapps                         | Unleash the full potential of your iOS App Switcher                               | yes                 | -                 | -            |
-| KrashKop                         | Lightweight crash reporter                                                        | yes                 | Havoc             | Better use TrollStore version         |
-| Kayoko                           | Clipboard manager for iOS.                                                        | yes                 | [vyolit](https://github.com/vyolit/Kayoko)           | -            |
+| KrashKop                         | Lightweight crash reporter                                                        | yes                 | Havoc             | -            |
+| Kayoko                           | Clipboard manager for iOS.                                                        | No (Confirm to work on iOS 15.x)             | [vyolit](https://github.com/vyolit/Kayoko)           | -            |
 | Laetus                           | Limitless Keyboard Customisation                                                  | yes                 | SparkDev          | -            |
 | Latchkey                         | Customize the Face-ID Lock Glyph                                                  | yes                 | Nezuko's Repo     | -            |
 | Liddell                          | Little and colorful notification banners                                          | yes                 | Nezuko's Repo     | -            |
@@ -176,29 +176,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Zetsu                            | The best multitasking tweak                                                       | Partly working      | Dcsyhi1998's Repo | Open from 3DTouch menu works, but open from normal apps will send you to safe mode      |
 
 
-## Not working tweaks list
-| Name                             | Description	                                                                     | Working?            | Source            | Note         |
-| -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
-| Aemulo                           | NFC Frickery                                                                      | No                  | Chariz            | No tweak injection support for NFCD.  |
-| CarBridge                        | Open any app in CarPlay!                                                          | No                  | Havoc             | Not showing up on CarPlay Settings    |
-| Color3DIcons                     | Get Custom Colors and Even More Options for your 3D Touch Menus Views!            | No                  | BigBoss           | Sends you to safe mode when attempting to open colored 3D touch menu.    |
-| Dynamic Stage	                   | Stage Manager Reimagined for iPhone                                               | No                  | Havoc             | After installing and respring it freezes and restarts the device.   |
-| Juice                            | Unparalleled Battery Customisation                                                | No                  | SparkDev          | It seems that after you link your Patreon account, the license doesn't take effect.     |
-| MilkyWay4                        | The most advanced tweak for multitasking                                          | No                  | Akusio's Repo     | There's no option in the 3D touch menu to open the app as a window.      |
-| Nexus                            | Next-level lockscreen customisation!                                              | No                  | Havoc             | Send you to SafeMode   |
-| Prysm                            | Control center the way it should be.                                              | No                  | Havoc             | Send you to SafeMode   |
-| VolVibes                         | Change the Volume Button vibrations, color the Volume HUD, and add volume percen  | No                  | Havoc             | Doesn't work and crashes settings when attempting to open its preferences.    |
-| YellowPages 2                    | Know the caller ID before answering.                                              | No                  | Miro's Repo       | Not activating with TrueCaller.       |
-
-
-## Need to test Tweaks list
-| Name                             | Description	                                                                     | Working?            | Source            | Note         |
-| -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
-| FastLockX                        | Unlock Face iD devices without swipe                                              | ?                   | Havoc             | -            |
-| Minotaur                         | Notifications in your Status Bar                                                  | ?                   | Havoc             | libnotifications for test notification not update to compatible for test. Thus, i use nicebarX so i cannot test if it fully working or not           |
-
 
 
 ## Credits
-- [Roothide Bootstrap (by roothideDev)](https://github.com/roothide/Bootstrap)
-- [Serotonin semi-jailbreak (by htrowii and mineek)](https://github.com/mineek/Serotonin)
+- [Dopamine 2.0 Jailbreak (by opaa334)](https://ellekit.space/dopamine/)
